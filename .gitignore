@@ -1,0 +1,14 @@
+# Entorno virtual
+Miflask/
+
+# Archivos temporales y compilados
+__pycache__/
+*.py[cod]
+
+# Config archivos de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+
